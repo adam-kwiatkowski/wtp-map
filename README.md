@@ -9,7 +9,7 @@ found [here](https://api.um.warszawa.pl/files/9fae6f84-4c81-476e-8450-6755c8451c
 
 #### Get locations
 
-```http
+```
   GET https://api.um.warszawa.pl/api/action/busestrams_get/
 ```
 
